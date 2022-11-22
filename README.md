@@ -1,10 +1,9 @@
 # sobre mim
 - 👋 Olá, meu nome é @samanthaalura
--meu email de contato é samantha.ribas@
--  👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-meu email de contato é samantha.ribas@escola.pr.gov.br
+-  👀 eu estou interessada em aprender novas linguagens
+- 🌱 estou aprendendo a programar linguagem de JavaScript e Scratch
+- 💞️ 
 
 <!---
 samanthaalura/samanthaalura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
