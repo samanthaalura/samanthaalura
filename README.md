@@ -3,7 +3,7 @@
 -meu email de contato é samantha.ribas@escola.pr.gov.br
 -  👀 eu estou interessada em aprender novas linguagens
 - 🌱 estou aprendendo a programar linguagem de JavaScript e Scratch
-- 💞️ amo o luan
+- 💞️ luan
 
 <!---
 samanthaalura/samanthaalura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
