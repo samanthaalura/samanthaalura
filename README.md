@@ -1,4 +1,4 @@
-# sobre mim
+# matemática 2
 - 👋 Olá, meu nome é @samanthaalura
 -meu email de contato é samantha.ribas@escola.pr.gov.br
 -  👀 eu estou interessada em aprender novas linguagens
